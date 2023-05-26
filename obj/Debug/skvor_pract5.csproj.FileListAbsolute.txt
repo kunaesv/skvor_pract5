@@ -13,3 +13,5 @@ D:\YP\skvor_pract5\skvor_pract5\obj\Debug\skvor_pract5.csproj.GenerateResource.c
 D:\YP\skvor_pract5\skvor_pract5\obj\Debug\skvor_pract5.csproj.CoreCompileInputs.cache
 D:\YP\skvor_pract5\skvor_pract5\obj\Debug\skvor_pract5.exe
 D:\YP\skvor_pract5\skvor_pract5\obj\Debug\skvor_pract5.pdb
+D:\YP\skvor_pract5\skvor_pract5\obj\Debug\Window1.g.cs
+D:\YP\skvor_pract5\skvor_pract5\obj\Debug\Window1.baml
